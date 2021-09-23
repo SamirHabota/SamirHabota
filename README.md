@@ -2,8 +2,6 @@
 <h3 align="center">I'm a passionate full stack software developer, teacher, organiser and sleight of hand artist.</h3>
 <br/>
 
-<br/>
-
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" alt="csharp" width="40" height="40"/> </a>
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
