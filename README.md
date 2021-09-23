@@ -18,11 +18,13 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt = "git" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt = "git" width="40" height="40"/> </a>
+     <a href="https://about.gitlab.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt = "gitlab" width="40" height="40"/> </a> 
     <a href="https://docs.microsoft.com/en-us/azure/?product=featured" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="azure" width="40" height="40"/> </a>
     <a href="https://devcenter.heroku.com/categories/reference" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="heroku" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/> </a>
-    <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="40" height="40"/> </a>
+    <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="40" height="40"/> </a>    
+     <a href="https://trello.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
