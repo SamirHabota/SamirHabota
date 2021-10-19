@@ -29,8 +29,6 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/express-vpn.png" alt="express" width="40" height="40"/> </a>
 </p>
 
-<br/>
-  <br/>
   <a href="https://github.com/SamirHabota"><img alt="Samir Habota's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirHabota&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/SamirHabota"><img alt="Samir Habota's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamirHabota&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
