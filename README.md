@@ -28,9 +28,12 @@
      <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/express-vpn.png" alt="express" width="40" height="40"/> </a>
 </p>
+
 <br/>
+  <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/SamirHabota"><img alt="Samir Habota's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirHabota&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/SamirHabota"><img alt="Samir Habota's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamirHabota&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </div>
   
   <br/>
   
