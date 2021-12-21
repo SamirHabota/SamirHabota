@@ -26,9 +26,11 @@
     <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="netlify" width="40" height="40"/> </a>    
      <a href="https://trello.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/trello.png" alt="trello" width="40" height="40"/> </a>
      <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/express-vpn.png" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/express-vpn.png" alt="express" width="40" height="40"/> </a>   
+    <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="express" width="40" height="40"/> </a>   
 </p>
 
+<!--
 <br/>
   <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/SamirHabota"><img alt="Samir Habota's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirHabota&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -39,6 +41,8 @@
   
 <br/>
 <br/>
+-->
+
 
 <!--
 ## Connect with me:
