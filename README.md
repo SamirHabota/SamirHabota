@@ -30,6 +30,7 @@
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png" alt="jira" width="40" height="40"/> </a>  
     <a href="https://sendgrid.com/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/sendgrid.png" alt="sendgrid" width="40" height="40"/> </a> 
     <a href="https://gatewayapi.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/messaging-.png" alt="gatewayapi" width="40" height="40"/> </a> 
+    <a href="https://evernote.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-evernote-an-online-cloud-based-note-taking-application-logo-color-tal-revivo.png" alt="evernote" width="38" height="38"/> </a> 
 </p>
 
 <!--
