@@ -35,6 +35,7 @@
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" alt="visualstudio" width="40" height="40"/> </a> 
     <a href="https://www.jetbrains.com/rider/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jetbrains.png" alt="jetbrainsrider" width="40" height="40"/> </a> 
     <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png" alt="msteams" width="40" height="40"/> </a>     
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="msteams" width="40" height="40"/> </a>     
  
 </p>
 
