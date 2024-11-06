@@ -1,4 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/SamirHabota/SamirHabota/main/header.png" height="175px"/></a>
+
 <h3 align="center">I'm a passionate full stack software developer, teacher, organiser and sleight of hand artist.</h3>
 <br/>
 
@@ -38,6 +39,9 @@
     <a href="https://www.microsoft.com/en/microsoft-teams/group-chat-software" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png" alt="msteams" width="40" height="40"/> </a>     
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/flutter.png" alt="msteams" width="40" height="40"/> </a>     
         <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/selenium-test-automation.png" alt="msteams" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000" alt="docker" width="40" height="40"/> </a>     
+
+        
  
 </p>
 
@@ -47,13 +51,12 @@
   <a href="https://github.com/SamirHabota"><img alt="Samir Habota's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirHabota&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/SamirHabota"><img alt="Samir Habota's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamirHabota&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </div>
-  
+
   <br/>
-  
+
 <br/>
 <br/>
 -->
-
 
 <!--
 ## Connect with me:
